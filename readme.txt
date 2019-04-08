@@ -3,4 +3,5 @@ gti is free software.
 git is so cool.
 git is so easy.
 git is a ...
+creating a new branch is quick.
 
