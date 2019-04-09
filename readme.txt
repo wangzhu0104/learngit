@@ -1,5 +1,5 @@
 git is a distributed version control system.
-gti is free software.
+gti is a free software.
 git is so cool.
 git is so easy.
 git is a ...
